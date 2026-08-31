@@ -1,0 +1,11 @@
+langgraph
+langchain-google-genai
+google-genai
+python-dotenv
+pandas
+geopy
+requests
+beautifulsoup4
+streamlit
+folium
+streamlit-folium
